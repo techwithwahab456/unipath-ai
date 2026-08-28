@@ -15,6 +15,7 @@ def retrieve_documents(
     collection = get_collection()
 
     # 3. Prepare query arguments
+
     query_args = {
         "query_embeddings": [query_embedding],
         "n_results": n_results,
