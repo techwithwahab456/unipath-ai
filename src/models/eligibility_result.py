@@ -5,10 +5,22 @@ from dataclasses import dataclass, field
 class RequirementCheck:
 
     requirement: str
+
     student_value: str
+
     required_value: str
+
     status: str
+
     explanation: str
+
+    mandatory: bool = True
+
+    source: str = ""
+
+    university: str = ""
+
+    program: str = ""
 
 
 @dataclass
@@ -29,3 +41,7 @@ class EligibilityResult:
     )
 
     summary: str = ""
+
+    sources: list[dict] = field(
+        default_factory=list
+    )
