@@ -65,6 +65,18 @@ Ranking and risk labels are decision-support outputs, not guarantees of admissio
 - Distinguish documented requirements from missing or unverified information.
 
 Source traceability supports verification; it does not independently guarantee that a document is current or that a generated conclusion is correct.
+##Screenshots
+<img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/49c8040e-fc73-4774-a100-6a943e9c4628" />
+
+<img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/42026205-414f-43c4-8fdf-c79ab8e640e7" />
+
+<img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/7b9cfd52-8887-4bab-95de-df9bdc74dbd7" />
+
+<img width="572" height="1024" alt="image" src="https://github.com/user-attachments/assets/0bac56bb-43e9-4a71-829b-0c4c2b0697e1" />
+
+
+
+
 
 ## System Architecture
 
